@@ -41,9 +41,6 @@
 		<ResourceCompiler>
 			<Add directory="../.." />
 		</ResourceCompiler>
-		<Linker>
-			<Add option="-def public.sdk\samples\vst2.x\win" />
-		</Linker>
 		<Unit filename="../../pluginterfaces/vst2.x/aeffect.h" />
 		<Unit filename="../../pluginterfaces/vst2.x/aeffectx.h" />
 		<Unit filename="../../pluginterfaces/vst2.x/vstfxstore.h" />
