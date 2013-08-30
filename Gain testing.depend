@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1375372514 source:c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\public.sdk\source\vst2.x\audioeffect.cpp
+	"audioeffect.h"
+	"aeffeditor.h"
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+
+1377804232 c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\public.sdk\source\vst2.x\audioeffect.h
+	"pluginterfaces/vst2.x/aeffect.h"
+
+1377797579 c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\pluginterfaces\vst2.x\aeffect.h
+	<string.h>
+	<stdint.h>
+
+1375372514 c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\public.sdk\source\vst2.x\aeffeditor.h
+	"audioeffectx.h"
+
+1375372514 c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\public.sdk\source\vst2.x\audioeffectx.h
+	"audioeffect.h"
+	"pluginterfaces/vst2.x/aeffectx.h"
+
+1375372513 c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\pluginterfaces\vst2.x\aeffectx.h
+	"aeffect.h"
+
+1375372514 source:c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\public.sdk\source\vst2.x\audioeffectx.cpp
+	"audioeffectx.h"
+	"aeffeditor.h"
+
+1375372514 source:c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\public.sdk\source\vst2.x\vstplugmain.cpp
+	"audioeffect.h"
+	<windows.h>
+
+1377831160 source:c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\projects\gain testing\gaineffect.cpp
+	"Gaineffect.h"
+
+1377831173 c:\users\marko\documents\creating vsts\vst_sdk2_4_rev2\vstsdk2.4\projects\gain testing\gaineffect.h
+	"public.sdk/source/vst2.x/audioeffectx.h"
+
